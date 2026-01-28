@@ -18,7 +18,7 @@
 
 ## ☎️ Contacts
 
-- ✉️ E-mail: reopen-jet-emptier@duck.com
+- ✉️ Telegram: @rendez_vous_avec_pregabalin
 
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
