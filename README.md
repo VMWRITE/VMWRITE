@@ -5,12 +5,7 @@
 ![PHP](https://img.shields.io/badge/%20-7%20years-black?style=for-the-badge&logo=php&logoColor=white&labelColor=%23777BB4&color=656898)
 ![Python](https://img.shields.io/badge/%20-2%20years-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=306796)
 
-<img width="64px" src="https://adhd.adderall.solutions/main.png"/> **Currently actively working on C++/C/Python projects**
-
-## 🪽 Anon File Uploader
-
-https://adhd.adderall.solutions/ (PHP, JS) will be recoded soon to Python
-
+**Currently actively working on C++/C/Python projects**
 ## 📓 Directions
 
 - 🎮 Game hacking
