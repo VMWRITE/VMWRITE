@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/%20-2%20years-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=306796)
 
 **Currently actively working on C++/C/Python projects**
+
 Personal blog - https://t.me/vmp_owner
 
 ## 📓 Directions
