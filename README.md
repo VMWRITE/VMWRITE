@@ -44,9 +44,3 @@ DA==
 ##
 
 ### <img width="24px" src="https://cdn.simpleicons.org/litecoin" /> LWEtyTXDpNr9eAkeofsn1sTJDH2BAY3Ymj
-
-## 🧪 Something
-
-<img width="128px" src="https://adhd.adderall.solutions/fun.png"/>
-
-
